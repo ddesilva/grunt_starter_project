@@ -1,0 +1,9 @@
+/*!
+ *    # Config File
+ *	
+
+ */
+
+var PagesConfig = {
+	
+};

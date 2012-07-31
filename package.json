@@ -1,0 +1,27 @@
+{
+  "author": {
+    "name":"your_name",
+    "email": "your_email"
+  },
+  "name": "project_name",
+  "description": "this is a description",
+  "version": "0.0.1",
+  "homepage": "default",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.7"
+  },
+  "devDependencies": {
+    "mocha"           : "latest",
+    "requirejs"       : "latest",
+    "chai"            : "latest",
+    "grunt"           : "latest",
+    "jsdom"           : "latest",
+    "xmlhttprequest"  : "latest",
+    "grunt-mocha"     : "latest",
+    "grunt-requirejs" : "latest",
+    "grunt-less"      : "latest"
+  }
+}
